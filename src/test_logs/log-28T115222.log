@@ -1,0 +1,14 @@
+11:52:26.506 [Test worker] INFO  com.phonebook.fw.ApplicationManager -- Test start in Chrome browser
+11:52:27.771 [Test worker] INFO  com.phonebook.fw.ApplicationManager -- Currency url-->https://telranedu.web.app/home
+11:52:28.286 [Test worker] INFO  com.phonbook.tests.TestBase -- Start testisHomeComponentPresentTest[]
+11:52:28.288 [Test worker] INFO  com.phonebook.utils.MyListener -- Before find elements By.cssSelector: div:nth-child(2)>div>div>h1
+11:52:28.289 [Test worker] INFO  com.phonebook.utils.MyListener -- **********************************
+11:52:28.336 [Test worker] INFO  com.phonebook.utils.MyListener -- List size1
+11:52:28.338 [Test worker] INFO  com.phonebook.utils.MyListener -- *****************************
+11:52:28.341 [Test worker] INFO  com.phonebook.utils.MyListener -- Before find elements By.cssSelector: div:nth-child(2)>div>div>h1
+11:52:28.341 [Test worker] INFO  com.phonebook.utils.MyListener -- **********************************
+11:52:28.356 [Test worker] INFO  com.phonebook.utils.MyListener -- List size1
+11:52:28.356 [Test worker] INFO  com.phonebook.utils.MyListener -- *****************************
+11:52:28.364 [Test worker] INFO  com.phonbook.tests.TestBase -- PASSED: isHomeComponentPresentTest
+11:52:28.364 [Test worker] INFO  com.phonbook.tests.TestBase -- ====================================================================
+11:52:28.365 [Test worker] INFO  com.phonbook.tests.TestBase -- Stop test

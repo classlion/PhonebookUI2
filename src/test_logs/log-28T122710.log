@@ -1,0 +1,56 @@
+12:27:23.145 [Test worker] INFO  com.phonebook.fw.ApplicationManager -- Test start in Firefox browser
+12:27:26.791 [Test worker] INFO  com.phonebook.fw.ApplicationManager -- Currency url-->https://telranedu.web.app/home
+12:27:27.768 [Test worker] INFO  com.phonbook.tests.TestBase -- Start testloginNegativeWithoutEmailTest[]
+12:27:27.778 [Test worker] INFO  com.phonebook.utils.MyListener -- Before find elements By.cssSelector: [href='/login']
+12:27:27.781 [Test worker] INFO  com.phonebook.utils.MyListener -- **********************************
+12:27:27.876 [Test worker] INFO  com.phonebook.utils.MyListener -- List size1
+12:27:27.877 [Test worker] INFO  com.phonebook.utils.MyListener -- *****************************
+12:27:27.884 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator will findBy.cssSelector: [href='/login']
+12:27:27.885 [Test worker] INFO  com.phonebook.utils.MyListener -- ********************************
+12:27:27.897 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator is By.cssSelector: [href='/login']
+12:27:27.898 [Test worker] INFO  com.phonebook.utils.MyListener -- ********************************
+12:27:28.305 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator will findBy.name: password
+12:27:28.306 [Test worker] INFO  com.phonebook.utils.MyListener -- ********************************
+12:27:28.315 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator is By.name: password
+12:27:28.316 [Test worker] INFO  com.phonebook.utils.MyListener -- ********************************
+12:27:28.622 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator will findBy.name: password
+12:27:28.623 [Test worker] INFO  com.phonebook.utils.MyListener -- ********************************
+12:27:28.634 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator is By.name: password
+12:27:28.635 [Test worker] INFO  com.phonebook.utils.MyListener -- ********************************
+12:27:28.646 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator will findBy.name: password
+12:27:28.647 [Test worker] INFO  com.phonebook.utils.MyListener -- ********************************
+12:27:28.657 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator is By.name: password
+12:27:28.657 [Test worker] INFO  com.phonebook.utils.MyListener -- ********************************
+12:27:28.722 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator will findBy.name: login
+12:27:28.723 [Test worker] INFO  com.phonebook.utils.MyListener -- ********************************
+12:27:28.745 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator is By.name: login
+12:27:28.745 [Test worker] INFO  com.phonebook.utils.MyListener -- ********************************
+12:27:29.045 [Test worker] INFO  com.phonebook.utils.MyListener -- The test has a problem
+12:27:29.045 [Test worker] INFO  com.phonebook.utils.MyListener -- *******************************************************************
+12:27:29.046 [Test worker] INFO  com.phonebook.utils.MyListener -- Method->alert
+12:27:29.046 [Test worker] INFO  com.phonebook.utils.MyListener -- ********************************************************************
+12:27:29.048 [Test worker] INFO  com.phonebook.utils.MyListener -- TargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [b0bcd3ef-4992-403a-aeaf-d9d5463bea59, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 137.0.2, moz:accessibilityChecks: false, moz:buildID: 20250414091429, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 9228, moz:profile: C:\Users\Leon\AppData\Local..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: b0bcd3ef-4992-403a-aeaf-d9d5463bea59
+12:27:29.049 [Test worker] INFO  com.phonebook.utils.MyListener -- *********************************************************************
+12:27:29.049 [Test worker] INFO  com.phonebook.utils.MyListener -- Object target-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@72825400
+12:27:29.049 [Test worker] INFO  com.phonebook.utils.MyListener -- **********************************************************************
+12:27:29.583 [Test worker] INFO  com.phonebook.utils.MyListener -- The test has a problem
+12:27:29.584 [Test worker] INFO  com.phonebook.utils.MyListener -- *******************************************************************
+12:27:29.584 [Test worker] INFO  com.phonebook.utils.MyListener -- Method->alert
+12:27:29.585 [Test worker] INFO  com.phonebook.utils.MyListener -- ********************************************************************
+12:27:29.587 [Test worker] INFO  com.phonebook.utils.MyListener -- TargetException-->org.openqa.selenium.NoAlertPresentException: Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [b0bcd3ef-4992-403a-aeaf-d9d5463bea59, getAlertText {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 137.0.2, moz:accessibilityChecks: false, moz:buildID: 20250414091429, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 9228, moz:profile: C:\Users\Leon\AppData\Local..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: b0bcd3ef-4992-403a-aeaf-d9d5463bea59
+12:27:29.588 [Test worker] INFO  com.phonebook.utils.MyListener -- *********************************************************************
+12:27:29.589 [Test worker] INFO  com.phonebook.utils.MyListener -- Object target-->org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@19ee1ae6
+12:27:29.590 [Test worker] INFO  com.phonebook.utils.MyListener -- **********************************************************************
+12:27:30.180 [Test worker] INFO  com.phonbook.tests.TestBase -- PASSED: loginNegativeWithoutEmailTest
+12:27:30.190 [Test worker] INFO  com.phonbook.tests.TestBase -- ====================================================================
+12:27:30.191 [Test worker] INFO  com.phonbook.tests.TestBase -- Stop test

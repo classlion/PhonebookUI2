@@ -4,42 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa0bcf3c-d14d-47ea-93d8-bb43916aff6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/phonebook/data/ContactData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/phonebook/data/UserData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/phonebook/utils/DataProviders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/phonebook/utils/MyListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/ApplicationManagerHomework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/BaseHelperHomework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/ContactHelperHomework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/CreateAccountTestHomework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/HomePageHelperHomework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/LoginTestHomework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/NewUserHomework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/TestBaseHomework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/UserHelperHomework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/contactdata.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/negative.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/smoky.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="aa0bcf3c-d14d-47ea-93d8-bb43916aff6f" name="Changes" comment="4.28.2025">
+      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T113545.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T113635.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T113755.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T113913.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T114124.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T114423.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T115055.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T115222.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T121951.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T122033.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T122255.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T122710.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T122934.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/phonebook/fw/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/phonebook/fw/ApplicationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/phonebook/fw/BaseHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/phonebook/fw/BaseHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/phonebook/models/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/phonebook/models/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/AddContactTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/AddContactTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/CreateAccountTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/CreateAccountTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/DeleteContactTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/DeleteContactTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/LoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/LoginTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,6 +234,19 @@
       <option name="presentableId" value="Default" />
       <updated>1745313643473</updated>
     </task>
+    <task id="LOCAL-00001" summary="4.28.2025">
+      <option name="closed" value="true" />
+      <created>1745832667552</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745832667552</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="4.28.2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.28.2025" />
   </component>
 </project>
