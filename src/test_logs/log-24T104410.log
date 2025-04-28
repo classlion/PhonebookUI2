@@ -1,0 +1,2 @@
+10:44:16.585 [Test worker] INFO  com.phonbook.tests.TestBase -- Start testloginPositiveTest
+10:44:19.001 [Test worker] INFO  com.phonbook.tests.TestBase -- Stop test

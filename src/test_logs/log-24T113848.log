@@ -1,0 +1,4 @@
+11:38:55.693 [Test worker] INFO  com.phonbook.tests.TestBase -- Start testloginPositiveTest
+11:39:11.020 [Test worker] ERROR com.phonbook.tests.TestBase -- FAILLD: loginPositiveTestScreenshot path:C:\AIT-TR\QA55_PhonebookUI2\screenshots\screen-1745487550938.png
+11:39:11.023 [Test worker] INFO  com.phonbook.tests.TestBase -- ====================================================================
+11:39:11.088 [Test worker] INFO  com.phonbook.tests.TestBase -- Stop test

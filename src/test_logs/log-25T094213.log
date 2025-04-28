@@ -1,0 +1,16 @@
+09:42:25.720 [Test worker] INFO  com.phonbook.tests.TestBase -- Start testaddContactPositiveFromDataProviderTest
+09:42:31.198 [Test worker] INFO  com.phonbook.tests.TestBase -- PASSED: addContactPositiveFromDataProviderTest
+09:42:31.199 [Test worker] INFO  com.phonbook.tests.TestBase -- ====================================================================
+09:42:31.200 [Test worker] INFO  com.phonbook.tests.TestBase -- Stop test
+09:42:31.205 [Test worker] INFO  com.phonbook.tests.TestBase -- Start testaddContactPositiveFromDataProviderTest
+09:42:46.323 [Test worker] INFO  com.phonbook.tests.TestBase -- PASSED: addContactPositiveFromDataProviderTest
+09:42:46.325 [Test worker] INFO  com.phonbook.tests.TestBase -- ====================================================================
+09:42:46.326 [Test worker] INFO  com.phonbook.tests.TestBase -- Stop test
+09:42:46.330 [Test worker] INFO  com.phonbook.tests.TestBase -- Start testaddContactPositiveFromDataProviderTest
+09:43:02.881 [Test worker] INFO  com.phonbook.tests.TestBase -- PASSED: addContactPositiveFromDataProviderTest
+09:43:02.882 [Test worker] INFO  com.phonbook.tests.TestBase -- ====================================================================
+09:43:02.883 [Test worker] INFO  com.phonbook.tests.TestBase -- Stop test
+09:43:02.887 [Test worker] INFO  com.phonbook.tests.TestBase -- Start testaddContactPositiveFromDataProviderTest
+09:43:16.989 [Test worker] INFO  com.phonbook.tests.TestBase -- PASSED: addContactPositiveFromDataProviderTest
+09:43:16.989 [Test worker] INFO  com.phonbook.tests.TestBase -- ====================================================================
+09:43:16.989 [Test worker] INFO  com.phonbook.tests.TestBase -- Stop test

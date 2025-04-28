@@ -1,0 +1,35 @@
+10:26:27.188 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\AIT-TR\QA55_PhonebookUI2\src\test\resources\negative.xml
+
+10:26:32.140 [main] INFO  com.phonebook.fw.ApplicationManager -- Test start in Chrome browser
+10:26:33.856 [main] INFO  com.phonebook.fw.ApplicationManager -- Currency url-->https://telranedu.web.app/home
+10:26:34.433 [main] INFO  com.phonbook.tests.TestBase -- Start testloginNegativeWithoutEmailTest[]
+10:26:34.436 [main] INFO  com.phonebook.utils.MyListener -- Before find elements By.cssSelector: [href='/login']
+10:26:34.437 [main] INFO  com.phonebook.utils.MyListener -- **********************************
+10:26:34.489 [main] INFO  com.phonebook.utils.MyListener -- List size1
+10:26:34.490 [main] INFO  com.phonebook.utils.MyListener -- *****************************
+10:26:34.505 [main] INFO  com.phonebook.utils.MyListener -- The locator will findBy.cssSelector: [href='/login']
+10:26:34.505 [main] INFO  com.phonebook.utils.MyListener -- ********************************
+10:26:34.543 [main] INFO  com.phonebook.utils.MyListener -- The locator is By.cssSelector: [href='/login']
+10:26:34.544 [main] INFO  com.phonebook.utils.MyListener -- ********************************
+10:26:34.690 [main] INFO  com.phonebook.utils.MyListener -- The locator will findBy.name: passwor
+10:26:34.690 [main] INFO  com.phonebook.utils.MyListener -- ********************************
+10:26:44.718 [main] INFO  com.phonebook.utils.MyListener -- The test has a problem
+10:26:44.718 [main] INFO  com.phonebook.utils.MyListener -- *******************************************************************
+10:26:44.718 [main] INFO  com.phonebook.utils.MyListener -- Method->findElement
+10:26:44.718 [main] INFO  com.phonebook.utils.MyListener -- ********************************************************************
+10:26:44.720 [main] INFO  com.phonebook.utils.MyListener -- TargetException-->org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='passwor']"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2b32cc4c424a64437c2db0024ca226b2, findElement {value=passwor, using=name}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\Leon\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54288}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54288/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2b32cc4c424a64437c2db0024ca226b2
+10:26:44.720 [main] INFO  com.phonebook.utils.MyListener -- *********************************************************************
+10:26:44.721 [main] INFO  com.phonebook.utils.MyListener -- Object target-->ChromeDriver: chrome on windows (2b32cc4c424a64437c2db0024ca226b2)
+10:26:44.722 [main] INFO  com.phonebook.utils.MyListener -- **********************************************************************
+10:26:45.263 [main] ERROR com.phonbook.tests.TestBase -- FAILLD: loginNegativeWithoutEmailTestScreenshot path:C:\AIT-TR\QA55_PhonebookUI2\screenshots\screen-1745828805206.png
+10:26:45.263 [main] INFO  com.phonbook.tests.TestBase -- ====================================================================
+10:26:45.263 [main] INFO  com.phonbook.tests.TestBase -- Stop test

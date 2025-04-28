@@ -1,0 +1,19 @@
+11:44:45.692 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\AIT-TR\QA55_PhonebookUI2\src\test\resources\smoky.xml
+
+11:44:52.038 [main] INFO  com.phonbook.tests.TestBase -- Start testisHomeComponentPresentTest
+11:44:52.131 [main] INFO  com.phonbook.tests.TestBase -- PASSED: isHomeComponentPresentTest
+11:44:52.131 [main] INFO  com.phonbook.tests.TestBase -- ====================================================================
+11:44:52.131 [main] INFO  com.phonbook.tests.TestBase -- Stop test
+11:44:52.141 [main] INFO  com.phonbook.tests.TestBase -- Start testloginPositiveTest
+11:44:54.454 [main] INFO  com.phonbook.tests.TestBase -- PASSED: loginPositiveTest
+11:44:54.454 [main] INFO  com.phonbook.tests.TestBase -- ====================================================================
+11:44:54.454 [main] INFO  com.phonbook.tests.TestBase -- Stop test
+11:44:54.460 [main] INFO  com.phonbook.tests.TestBase -- Start testaddContactPositiveTest
+11:45:09.742 [main] INFO  com.phonbook.tests.TestBase -- PASSED: addContactPositiveTest
+11:45:09.742 [main] INFO  com.phonbook.tests.TestBase -- ====================================================================
+11:45:09.742 [main] INFO  com.phonbook.tests.TestBase -- Stop test
+11:45:09.745 [main] INFO  com.phonbook.tests.TestBase -- Start testdeleteContactTest
+11:45:25.062 [main] ERROR com.phonbook.tests.TestBase -- FAILLD: deleteContactTestScreenshot path:C:\AIT-TR\QA55_PhonebookUI2\screenshots\screen-1745487925022.png
+11:45:25.062 [main] INFO  com.phonbook.tests.TestBase -- ====================================================================
+11:45:25.062 [main] INFO  com.phonbook.tests.TestBase -- Stop test

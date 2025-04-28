@@ -1,0 +1,16 @@
+11:37:10.081 [Test worker] INFO  com.phonbook.tests.TestBase -- Start testaddContactPositiveFromDataProviderWithCSVFileTest[Contact{name='Oliver', phone='1234567890'}]
+11:38:17.994 [Test worker] INFO  com.phonbook.tests.TestBase -- PASSED: addContactPositiveFromDataProviderWithCSVFileTest
+11:38:17.995 [Test worker] INFO  com.phonbook.tests.TestBase -- ====================================================================
+11:38:17.995 [Test worker] INFO  com.phonbook.tests.TestBase -- Stop test
+11:38:18.001 [Test worker] INFO  com.phonbook.tests.TestBase -- Start testaddContactPositiveFromDataProviderWithCSVFileTest[Contact{name='Kris', phone='1234567891'}]
+11:38:34.050 [Test worker] INFO  com.phonbook.tests.TestBase -- PASSED: addContactPositiveFromDataProviderWithCSVFileTest
+11:38:34.051 [Test worker] INFO  com.phonbook.tests.TestBase -- ====================================================================
+11:38:34.051 [Test worker] INFO  com.phonbook.tests.TestBase -- Stop test
+11:38:34.055 [Test worker] INFO  com.phonbook.tests.TestBase -- Start testaddContactPositiveFromDataProviderWithCSVFileTest[Contact{name='Alex', phone='341234567892'}]
+11:38:48.259 [Test worker] INFO  com.phonbook.tests.TestBase -- PASSED: addContactPositiveFromDataProviderWithCSVFileTest
+11:38:48.259 [Test worker] INFO  com.phonbook.tests.TestBase -- ====================================================================
+11:38:48.260 [Test worker] INFO  com.phonbook.tests.TestBase -- Stop test
+11:38:48.264 [Test worker] INFO  com.phonbook.tests.TestBase -- Start testaddContactPositiveFromDataProviderWithCSVFileTest[Contact{name='Olivia', phone='123456789321'}]
+11:39:02.899 [Test worker] INFO  com.phonbook.tests.TestBase -- PASSED: addContactPositiveFromDataProviderWithCSVFileTest
+11:39:02.900 [Test worker] INFO  com.phonbook.tests.TestBase -- ====================================================================
+11:39:02.900 [Test worker] INFO  com.phonbook.tests.TestBase -- Stop test
