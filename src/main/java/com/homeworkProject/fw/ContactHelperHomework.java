@@ -1,4 +1,4 @@
-package com.phonbook.tests;
+package com.homeworkProject.fw;
 
 import org.openqa.selenium.WebDriver;
 

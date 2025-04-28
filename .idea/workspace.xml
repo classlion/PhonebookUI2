@@ -5,22 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa0bcf3c-d14d-47ea-93d8-bb43916aff6f" name="Changes" comment="4.28.2025">
-      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T113545.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T113635.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T113755.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T113913.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T114124.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T114423.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T115055.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T115222.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T121951.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T122033.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T122255.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T122710.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_logs/log-28T122934.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/homeworkProject/models/ContactHomework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/homeworkProject/models/UserHomework.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/phonebook/fw/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/phonebook/fw/ApplicationManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/ApplicationManagerHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homeworkProject/fw/ApplicationManagerHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/BaseHelperHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homeworkProject/fw/BaseHelperHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/ContactHelperHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homeworkProject/fw/ContactHelperHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/CreateAccountTestHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/CreateAccountTestHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/HomePageHelperHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homeworkProject/fw/HomePageHelperHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/LoginTestHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/LoginTestHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/NewUserHomework.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/TestBaseHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/TestBaseHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/phonbook/tests/UserHelperHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homeworkProject/fw/UserHelperHomework.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +77,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/KristinaTomash/QA55_PhonebookUI.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/classlion/PhonebookUI2.git&quot;,
     &quot;accountId&quot;: &quot;3bff1515-6d30-46a4-8b2a-3cd6241876f9&quot;
   }
 }</component>
@@ -92,61 +88,40 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.AddContactTests.addContactPositiveFromDataProviderTest.executor": "Run",
-    "Gradle.AddContactTests.addContactPositiveFromDataProviderWithCSVFileTest.executor": "Run",
-    "Gradle.Build QA55_PhonebookUI2.executor": "Run",
-    "Gradle.LoginTests.loginNegativeWithoutEmailTest.executor": "Run",
-    "Gradle.LoginTests.loginPositiveTest.executor": "Run",
-    "Gradle.QA55_PhonebookUI2 [build].executor": "Run",
-    "Gradle.Tests in 'com.phonbook.tests'.executor": "Run",
-    "RunOnceActivity.git.unshallow": "true",
-    "TestNG.C:/AIT-TR/QA55_PhonebookUI2/src/test/resources/negative.xml.executor": "Run",
-    "TestNG.C:/AIT-TR/QA55_PhonebookUI2/src/test/resources/smoky.xml.executor": "Run",
-    "TestNG.C:/AIT-TR/QA55_PhonebookUI2/src/test/resources/testng.xml.executor": "Run",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/AIT-TR/QA55_PhonebookUI2/src/test/resources",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.AddContactTests.addContactPositiveFromDataProviderTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AddContactTests.addContactPositiveFromDataProviderWithCSVFileTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build QA55_PhonebookUI2.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CreateAccountTestHomework.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LoginTestHomework.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LoginTests.loginNegativeWithoutEmailTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.LoginTests.loginPositiveTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.QA55_PhonebookUI2 [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Tests in 'com.phonbook.tests'.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/AIT-TR/QA55_PhonebookUI2/src/test/resources/negative.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/AIT-TR/QA55_PhonebookUI2/src/test/resources/smoky.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/AIT-TR/QA55_PhonebookUI2/src/test/resources/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/AIT-TR/QA55_PhonebookUI2/src/main/java/com/homeworkProject/models&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.phonbook.tests" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\AIT-TR\QA55_PhonebookUI2\src\main\java\com\homeworkProject\models" />
       <recent name="C:\AIT-TR\QA55_PhonebookUI2\src\test\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\AIT-TR\QA55_PhonebookUI2\src\test\java\com\phonbook\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/AIT-TR/QA55_PhonebookUI2/src/test/resources/negative.xml">
-    <configuration name="AddContactTests.addContactPositiveFromDataProviderTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;com.phonbook.tests.AddContactTests.addContactPositiveFromDataProviderTest&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Gradle.LoginTestHomework">
     <configuration name="AddContactTests.addContactPositiveFromDataProviderWithCSVFileTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -171,7 +146,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="LoginTests.loginPositiveTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="CreateAccountTestHomework" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -184,7 +159,31 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;com.phonbook.tests.LoginTests.loginPositiveTest&quot;" />
+            <option value="&quot;com.phonbook.tests.CreateAccountTestHomework&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="LoginTestHomework" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.phonbook.tests.LoginTestHomework&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -217,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.LoginTestHomework" />
+        <item itemvalue="Gradle.CreateAccountTestHomework" />
         <item itemvalue="TestNG.C:/AIT-TR/QA55_PhonebookUI2/src/test/resources/negative.xml" />
         <item itemvalue="TestNG.C:/AIT-TR/QA55_PhonebookUI2/src/test/resources/smoky.xml" />
         <item itemvalue="Gradle.AddContactTests.addContactPositiveFromDataProviderWithCSVFileTest" />
-        <item itemvalue="Gradle.AddContactTests.addContactPositiveFromDataProviderTest" />
-        <item itemvalue="Gradle.LoginTests.loginPositiveTest" />
       </list>
     </recent_temporary>
   </component>

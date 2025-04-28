@@ -5,7 +5,9 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class LoginTestHomework extends TestBaseHomework {
-    @Test(enabled = false)
+
+
+    @Test
     public void loginPositiveTest() {
         appHomework.getUser().click(By.cssSelector("[href='/login']"));
 

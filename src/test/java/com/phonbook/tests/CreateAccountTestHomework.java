@@ -1,5 +1,6 @@
 package com.phonbook.tests;
 
+import com.homeworkProject.models.UserHomework;
 import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -14,7 +15,7 @@ public class CreateAccountTestHomework extends TestBaseHomework {
         //click on Login Link
 
         appHomework.getUser().click(By.cssSelector("[href='/register']"));
-        appHomework.getUser().fillRagesterLoginForm(new NewUserHomework()
+        appHomework.getUser().fillRagesterLoginForm(new UserHomework.NewUserHomework()
                 .setFirstName("Oliver")
                 .setLastName("Smith")
                 .setEmail("1234EWRWRE@gmail.com")
@@ -29,7 +30,7 @@ public class CreateAccountTestHomework extends TestBaseHomework {
         //click on Login Link
         int i=(int)(System.currentTimeMillis()/1000)%3600;
         appHomework.getUser().click(By.cssSelector("[href='/register']"));
-        appHomework.getUser().fillRagesterLoginForm(new NewUserHomework()
+        appHomework.getUser().fillRagesterLoginForm(new UserHomework.NewUserHomework()
                         .setFirstName("Oliver")
                         .setLastName("Smith")
                         .setEmail("1234@gmail.com")

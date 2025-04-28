@@ -1,4 +1,4 @@
-package com.phonbook.tests;
+package com.homeworkProject.fw;
 
 import com.phonebook.fw.ApplicationManager;
 import org.openqa.selenium.WebDriver;
@@ -17,9 +17,9 @@ public class ApplicationManagerHomework{
     ContactHelperHomework contact;
     HomePageHelperHomework home;
 
-    protected static ApplicationManager app = new ApplicationManager(System.getProperty("browser",
+    public static ApplicationManager app = new ApplicationManager(System.getProperty("browser",
             Browser.CHROME.browserName()));
-    Logger logger = LoggerFactory.getLogger(TestBase.class);
+    Logger logger = LoggerFactory.getLogger(ApplicationManagerHomework.class);
 
     public void initHomework() {
         driver = new ChromeDriver();
