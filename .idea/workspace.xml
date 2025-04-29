@@ -4,49 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa0bcf3c-d14d-47ea-93d8-bb43916aff6f" name="Changes" comment="4.28.2025/">
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/homeworkProject/fw/ApplicationManagerHomework.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/homeworkProject/fw/BaseHelperHomework.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/homeworkProject/fw/ContactHelperHomework.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/homeworkProject/fw/HomePageHelperHomework.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/homeworkProject/fw/UserHelperHomework.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/homeworkProject/models/ContactHomework.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/homeworkProject/models/UserHomework$NewUserHomework.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/homeworkProject/models/UserHomework.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/phonebook/data/ContactData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/phonebook/data/UserData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/phonebook/fw/ApplicationManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/phonebook/fw/BaseHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/phonebook/fw/ContactHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/phonebook/fw/HomePageHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/phonebook/fw/UserHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/phonebook/models/Contact.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/phonebook/models/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/phonebook/utils/DataProviders.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/phonebook/utils/MyListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/test/com/phonbook/tests/AddContactTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/test/com/phonbook/tests/TestBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/problems/problems-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/qa1/classes/com.phonbook.tests.LoginTests.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/qa1/css/base-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/qa1/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/qa1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/qa1/js/report.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/qa1/packages/com.phonbook.tests.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/resources/test/contactdata.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/resources/test/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/resources/test/negative.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/resources/test/smoky.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/resources/test/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/qa1/TEST-com.phonbook.tests.LoginTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/qa1/binary/output.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/qa1/binary/output.bin.idx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/qa1/binary/results.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/homeworkProject/models/UserHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homeworkProject/models/UserHomework.java" afterDir="false" />
-    </list>
+    <list default="true" id="aa0bcf3c-d14d-47ea-93d8-bb43916aff6f" name="Changes" comment="4.28.2025/" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
