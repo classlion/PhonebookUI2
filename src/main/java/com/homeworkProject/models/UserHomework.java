@@ -7,7 +7,7 @@ public class UserHomework {
         this.email = email;
         return this;
     }
-    public UserHomework setPassword(String password) {
+    public  UserHomework setPassword(String password) {
         this.password = password;
         return this;
     }
